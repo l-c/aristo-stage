@@ -1,0 +1,15 @@
+{
+  "title": "Services",
+  "path": "/services", 
+  "template": "services",
+  "context": {
+    "description": "Hello",
+    "components": [{
+      "type": "card"
+    }, {
+      "type": "card"
+    }, {
+      "type": "break"
+    }]
+  }
+}

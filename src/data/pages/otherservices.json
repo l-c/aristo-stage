@@ -1,0 +1,15 @@
+{
+  "title": "Other Services",
+  "path": "/other-services", 
+  "template": "layout",
+  "context": {
+    "description": "Hello2",
+    "components": [{
+      "type": "card"
+    }, {
+      "type": "card"
+    }, {
+      "type": "break"
+    }]
+  }
+}
