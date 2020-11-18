@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{d5OJ:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),p=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").slice(-1)[0]];return o.a.createElement(p.d,{pageContext:a},o.a.createElement(p.e,{pageContext:a}))}}}]);
+//# sourceMappingURL=component---src-pages-services-insurance-protection-js-bdf223056ff60cd86e98.js.map

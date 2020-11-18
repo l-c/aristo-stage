@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{Isgv:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),p=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").slice(-1)[0]];return o.a.createElement(p.d,{pageContext:a},o.a.createElement(p.e,{pageContext:a}))}}}]);
+//# sourceMappingURL=component---src-pages-services-institutional-investment-js-a1915fb79a9435f609e6.js.map
