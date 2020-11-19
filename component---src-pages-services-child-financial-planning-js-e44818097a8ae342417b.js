@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{BTLa:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),p=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").slice(-1)[0]];return o.a.createElement(p.d,{pageContext:a},o.a.createElement(p.e,{pageContext:a}))}}}]);
-//# sourceMappingURL=component---src-pages-services-child-financial-planning-js-e44818097a8ae342417b.js.map
