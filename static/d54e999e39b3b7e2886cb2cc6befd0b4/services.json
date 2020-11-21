@@ -1,0 +1,18 @@
+{
+  "path": "/services",
+  "jsonPath": "./src/data/pages/services.json", 
+  "template": "base",
+  "context": {
+    "title": "Services",
+    "description": "Hello",
+    "components": [
+      {
+        "type": "Link",
+        "context": {
+          "title": "Home",
+          "src": "/"
+        }
+      }
+    ]
+  }
+}
