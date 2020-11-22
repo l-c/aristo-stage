@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"+Slb":function(e,t,n){"use strict";n.r(t);var i=n("q1tI"),r=n.n(i),a=n("Bl7J"),c={url:"/services",title:"Services",description:"Services We Provide",template:"other"};t.default=function(){return r.a.createElement(a.a,{pageContext:c},r.a.createElement("main",null,c.title))}}}]);
-//# sourceMappingURL=component---src-pages-services-index-js-4e890a8f5cb356f5b17d.js.map
