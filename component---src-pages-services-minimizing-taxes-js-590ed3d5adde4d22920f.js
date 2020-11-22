@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{rjtd:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("8aQE"),c=a("Kvkj");t.default=function(e){var t=e.location,a=r.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(c.o,{pageContext:a},o.a.createElement(c.w,{pageContext:a}))}}}]);
-//# sourceMappingURL=component---src-pages-services-minimizing-taxes-js-590ed3d5adde4d22920f.js.map
