@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{moSG:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),i=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(i.o,{pageContext:a},o.a.createElement(i.w,{pageContext:a}))}}}]);
+//# sourceMappingURL=component---src-pages-services-mortgage-planning-js-059d9e169109d4eccd9c.js.map
