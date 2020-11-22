@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{Vnu3:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),i=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(i.o,{pageContext:a},o.a.createElement(i.w,{pageContext:a}))}}}]);
-//# sourceMappingURL=component---src-pages-services-investment-strategies-js-af55cdb5e7206416f98e.js.map
