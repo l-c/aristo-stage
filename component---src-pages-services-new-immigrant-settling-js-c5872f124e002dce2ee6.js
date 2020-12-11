@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{"/m3I":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("8aQE"),c=a("Kvkj");t.default=function(e){var t=e.location,a=r.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(c.m,{pageContext:a},o.a.createElement(c.r,{pageContext:a}))}}}]);
+//# sourceMappingURL=component---src-pages-services-new-immigrant-settling-js-c5872f124e002dce2ee6.js.map
