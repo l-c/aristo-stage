@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{dFgg:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("8aQE"),i=a("Kvkj");t.default=function(e){var t=e.location,a=c.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(i.o,{pageContext:a},o.a.createElement(i.w,{pageContext:a}))}}}]);
-//# sourceMappingURL=component---src-pages-services-small-business-planning-js-b21fc1d8bfb21ffeed39.js.map
