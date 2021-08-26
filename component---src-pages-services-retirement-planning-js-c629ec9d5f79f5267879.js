@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"C/eG":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),r=a("8aQE"),c=a("Kvkj");t.default=function(e){var t=e.location,a=r.data[t.pathname.split("/").filter(Boolean).slice(-1)[0]];return o.a.createElement(c.r,{pageContext:a},o.a.createElement(c.E,{pageContext:a}))}}}]);
+//# sourceMappingURL=component---src-pages-services-retirement-planning-js-c629ec9d5f79f5267879.js.map
